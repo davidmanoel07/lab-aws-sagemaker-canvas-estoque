@@ -19,7 +19,7 @@
 - A coluna escolhida como Alvo da previsão é a Tipo.
 
 - As colunas que fornecerão as informações sobre os periféricos e que serão usadas para fazer as previsões são:
-- 
+  
 - Quantidade.
   
 - Preço.
