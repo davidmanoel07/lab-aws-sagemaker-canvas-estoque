@@ -46,6 +46,6 @@
 
 - Após o treinamento e ajuste do modelo, você pode utilizá-lo para prever o tipo de periférico. No Amazon SageMaker Canvas, faça isso carregando um novo conjunto de dados que inclua as variáveis preditivas: Quantidade, Preço, Modelo, Marca e Classificação.
   
-- Usando o modelo, você poderá identificar quais fatores são mais influentes na decisão de compra dos clientes, como o preço, o modelo ou a marca do periférico. Isso ajudará a entender melhor as preferências dos seus clientes
+- Usando o modelo, você poderá identificar quais fatores são mais influentes na decisão de compra dos clientes, como o preço, o modelo ou a marca do periférico. Isso ajudará a entender melhor as preferências dos seus clientes.
 
 
