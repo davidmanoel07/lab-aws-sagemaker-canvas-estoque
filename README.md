@@ -36,11 +36,11 @@
 
 - Contribuição das Variáveis:
 
-Modelo: A variável Modelo tem uma contribuição significativa para a previsão do tipo de periférico, com cerca de 44%. Isso sugere que a especificação do modelo é um dos principais fatores que influenciam a escolha do tipo de periférico, indicando que muitas pessoas consideram o modelo como um fator decisivo na compra.
+- Modelo: A variável Modelo tem uma contribuição significativa para a previsão do tipo de periférico, com cerca de 44%. Isso sugere que a especificação do modelo é um dos principais fatores que influenciam a escolha do tipo de periférico, indicando que muitas pessoas consideram o modelo como um fator decisivo na compra.
 
 - Preço: A variável Preço contribui com aproximadamente 39% para as previsões. Isso reforça a ideia de que o preço é um fator importante na classificação dos periféricos, mostrando que os consumidores frequentemente consideram o preço ao escolher um periférico.
 
-Marca: A variável Marca tem uma contribuição menor, em torno de 17%. Isso sugere que, embora a marca ainda seja um fator relevante, ela tem uma influência menor em comparação com o modelo e o preço.
+- Marca: A variável Marca tem uma contribuição menor, em torno de 17%. Isso sugere que, embora a marca ainda seja um fator relevante, ela tem uma influência menor em comparação com o modelo e o preço.
 
 ### 4. Conclusão.
 
